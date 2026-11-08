@@ -1,0 +1,14 @@
+node_modules
+data
+.git
+.gitignore
+.env
+.env.*
+!.env.example
+test
+coverage
+*.db
+*.db-wal
+*.db-shm
+.DS_Store
+.freebuff

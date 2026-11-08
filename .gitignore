@@ -1,0 +1,13 @@
+node_modules/
+data/
+.freebuff/
+.tools/
+*.db
+*.db-wal
+*.db-shm
+.env
+.env.*
+!.env.example
+.DS_Store
+coverage/
+npm-debug.log*
